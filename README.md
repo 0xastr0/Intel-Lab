@@ -5,3 +5,9 @@ Why Intel-Lab Is There Is No AMD Stuff ?
 ----------------------------------------
 
 No, The Repo Is For Intel CPU's Since That's What I am Familiar with rn. 
+
+Resources:
+----------
+
+Intel Manual: https://software.intel.com/content/www/us/en/develop/articles/intel-sdm.html
+OS Dev Wiki: https://wiki.osdev.org/Expanded_Main_Page
