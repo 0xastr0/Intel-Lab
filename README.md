@@ -10,4 +10,5 @@ Resources:
 ----------
 
 Intel Manual: https://software.intel.com/content/www/us/en/develop/articles/intel-sdm.html
+
 OS Dev Wiki: https://wiki.osdev.org/Expanded_Main_Page
